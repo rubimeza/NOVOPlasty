@@ -1,4 +1,5 @@
 # NOVOPlasty - The organelle assembler and heteroplasmy caller
+Este programa sirve ensamblar genomas  de organelos, pero también lo puedo usar para estraer cualquier secuencia que me intersese
 
 NOVOPlasty is a de novo assembler and heteroplasmy/variance caller for short circular genomes.  
 
